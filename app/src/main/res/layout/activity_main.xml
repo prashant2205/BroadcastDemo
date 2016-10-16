@@ -24,4 +24,9 @@
         android:layout_height="wrap_content"
         android:text="Delete BROADCAST"
         android:id="@+id/deletebroadcastbutton"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="new  BROADCAST"
+        android:id="@+id/newdeletebroadcastbutton"/>
 </LinearLayout>
